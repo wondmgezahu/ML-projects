@@ -8,4 +8,4 @@ This repository contains various projects completed during my Machine Learning &
 - Multilayer Perceptrons and Support Vector Machines
 - Gaussian Mixture Model-based clustering
 
-All projects were implemented using Python. For more details, please refer to the individual project folders
+For more details, please refer to the individual project folders
